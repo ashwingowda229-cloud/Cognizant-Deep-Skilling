@@ -1,0 +1,16 @@
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# React / Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
